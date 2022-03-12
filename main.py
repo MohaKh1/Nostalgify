@@ -6,10 +6,10 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 BILLBOARD_ENDPOINT = "https://www.billboard.com/charts/hot-100/"
-SPOTIFY_CLIENT_ID = "8c2fc18077c54d7b8678b62e0d6958e4"
-SPOTIFY_CLIENT_SECRET = "5744f9db3f10454cb2dda8ccb450b1ac"
+SPOTIFY_CLIENT_ID = "******"
+SPOTIFY_CLIENT_SECRET = "*******"
 SPOTIFY_USERNAME="MoHaKh"
-ID="31ko3v7oai7eq4kmpsyv7obul4lm"
+ID="******"
 def spotify_auth():
 
 
